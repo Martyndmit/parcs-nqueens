@@ -1,0 +1,3 @@
+n=15
+depth=2
+strategy=cyclic

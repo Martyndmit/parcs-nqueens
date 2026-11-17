@@ -1,0 +1,4 @@
+n=13
+depth=2
+strategy=dynamic
+chunk=1
